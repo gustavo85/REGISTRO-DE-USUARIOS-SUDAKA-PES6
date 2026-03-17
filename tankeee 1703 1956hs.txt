@@ -1,2 +1,2 @@
-Promedio latencia subida: 40 ms
+Promedio latencia subida: 39 ms
 Promedio latencia bajada: 6 ms
